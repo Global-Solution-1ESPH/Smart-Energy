@@ -8,7 +8,7 @@ from datetime import datetime  # Para manipular datas e horários
 import pytz  # Para trabalhar com fusos horários
 
 # Configuração do endereço IP e porta do servidor que armazena os dados dos sensores
-IP_ADDRESS = "52.137.83.133"  # Endereço IP do servidor
+IP_ADDRESS = "ip_do_servidor"  # Endereço IP do servidor
 PORT_STH = 8666  # Porta do serviço STH-Comet
 DASH_HOST = "0.0.0.0"  # Define o host como acessível de qualquer IP
 
