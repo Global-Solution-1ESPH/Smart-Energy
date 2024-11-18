@@ -70,7 +70,7 @@ Esta solução utiliza sensores e dispositivos para monitoramento em tempo real,
 
 ## Links Úteis
   - [Wokwi](https://wokwi.com/projects/414460259051014145)
-  - [Vídeo Explicativo]()
+  - [Vídeo Explicativo](https://drive.google.com/file/d/1SwUM2CNrKPMvvJE6Hx09EYiOsTCUCvaw/view?usp=sharing)
 
 ## Referências
 - [Link 1](https://repositorio.ifg.edu.br/bitstream/prefix/1229/3/trab.evento_RenanMoreiraSoares_MarceloEscobardeOliveira.pdf)
