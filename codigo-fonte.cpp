@@ -19,7 +19,7 @@ Adafruit_ILI9341 tft = Adafruit_ILI9341(TFT_CS, TFT_DC);
 // Configurações editáveis
 const char* default_SSID = "Wokwi-GUEST";             // Nome da rede Wi-Fi
 const char* default_PASSWORD = "";                   // Senha da rede Wi-Fi
-const char* default_BROKER_MQTT = "52.137.83.133";   // IP do Broker MQTT
+const char* default_BROKER_MQTT = "ip_do_broker";   // IP do Broker MQTT
 const int default_BROKER_PORT = 1883;                // Porta do Broker MQTT
 const char* default_TOPICO_SUBSCRIBE = "/TEF/lamp003/cmd"; // Tópico para escuta no Broker
 const char* default_TOPICO_PUBLISH_1 = "/TEF/lamp003/attrs";  // Publicação de estado do LED
