@@ -47,7 +47,7 @@ Esta solução utiliza sensores e dispositivos para monitoramento em tempo real,
 
 ## Instruções de Uso 🚀
 ### 1. Faça uma Cópia da simulação no wokwi
-- Com o [Link]() da simulação, faça uma cópia.
+- Com o [Link](https://wokwi.com/projects/414460259051014145) da simulação, faça uma cópia.
 - Instale as bibliotecas necessárias.
 ### 2. Execute o Fiware Descomplicado
 ### 3. Execute o Dashboard
@@ -68,6 +68,11 @@ Esta solução utiliza sensores e dispositivos para monitoramento em tempo real,
 - [Gustavo Viega](https://github.com/Vieg4)
 - [Felipe Marques](https://github.com/FelipeMarquesdeOliveira)
 
-  ## Links Úteis
-  - [Wokwi]()
+## Links Úteis
+  - [Wokwi](https://wokwi.com/projects/414460259051014145)
   - [Vídeo Explicativo]()
+
+## Referências
+- [Link 1](https://repositorio.ifg.edu.br/bitstream/prefix/1229/3/trab.evento_RenanMoreiraSoares_MarceloEscobardeOliveira.pdf)
+- [Link 2](https://www.gta.ufrj.br/ensino/eel878/redes1-2016-1/16_1/smartgrid/#perguntas)
+- [Link 3](https://www.ecodebate.com.br/2020/10/02/o-futuro-da-gestao-de-energia-sao-os-microgrids/)
